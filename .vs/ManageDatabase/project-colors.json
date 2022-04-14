@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "adb6d1cc-a167-40b3-8988-49efb464e48a": {
+      "ProjectGuid": "adb6d1cc-a167-40b3-8988-49efb464e48a",
+      "DisplayName": "ManageDatabase",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
